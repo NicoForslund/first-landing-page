@@ -1,0 +1,15 @@
+body {  
+    background-color: black
+}
+
+
+#header {   
+    border:solid;
+    color:white;
+    border-block-start: 0px
+    
+}
+
+#title {    
+    color: grey;
+}
