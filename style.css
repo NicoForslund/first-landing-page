@@ -19,8 +19,6 @@ body {
     display: flex;
     justify-content: flex-end;
     
-    
-    
 }
 
 
@@ -32,5 +30,12 @@ display: flex;
 #nav-bar { 
      display: flex;
 
-   
 }
+
+#header-img {
+    display: flex;
+    justify-content: center;
+}
+
+
+
