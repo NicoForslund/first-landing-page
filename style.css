@@ -1,14 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {  
-    background-color: black
+    background-color: black;
+
 }
 
 
 #header {   
-    border:solid;
-    background:white;
+    border:solid #2B2626;
+    background: #2B2626;
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    
+    
     
 }
 
-#title {    
-    color: grey;
+
+img {  
+    width: 300px;
+display: flex;
+}
+
+#nav-bar { 
+     display: flex;
+
+}
+
+#header-img {
+    display: flex;
+    justify-content: flex-start;
+}
+
+iframe {
+    width: 
 }
