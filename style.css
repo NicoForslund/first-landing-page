@@ -1,6 +1,4 @@
-<style>@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
-
-</style>* {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -60,13 +58,10 @@ img {}
 .h1-elements {
     color: blue;
     padding-left: 19%;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Alfa Slab One';
 
 }
 
-.h1-elements-2 {
-    color: blue;
-    padding-left: 10%;
-    font-family: 'Alfa Slab One', cursive;
-
+#button {
+    justify-content: center;
 }
