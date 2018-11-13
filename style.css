@@ -1,4 +1,6 @@
-* {
+<style>@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+
+</style>* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -34,7 +36,7 @@ ul {
 
 #image {
     width: 550px;
-    padding: 40px 40px 100px;
+    padding: 40px 40px 0px;
 }
 
 #video {
@@ -45,15 +47,9 @@ ul {
 .img-row {
     display: flex;
     justify-content: center;
-
-
 }
 
-img {
-    border: solid;
-    color: white;
-    margin: 10px;
-}
+img {}
 
 #video-container {
     display: flex;
@@ -63,5 +59,14 @@ img {
 
 .h1-elements {
     color: blue;
+    padding-left: 19%;
+    font-family: 'Alfa Slab One', cursive;
+
+}
+
+.h1-elements-2 {
+    color: blue;
+    padding-left: 10%;
+    font-family: 'Alfa Slab One', cursive;
 
 }
