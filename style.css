@@ -63,13 +63,19 @@ img {}
 }
 
 .button {
+    background-color: #4CAF50;
     border: none;
-    padding: 30px 60px;
+    color: white;
+    padding: 15px 25px;
     text-align: center;
-    font-size: 10px;
+    font-size: 16px;
     cursor: pointer;
 }
 
 .button:hover {
-    background-color: white;
+    background-color: green;
+}
+
+.div-button {
+    align-content: center
 }
